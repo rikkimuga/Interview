@@ -1,0 +1,47 @@
+body{
+    background-color: #f8ed59;
+    background-size: cover;
+    background-position: center;
+}
+.login-box{
+
+    margin: 150px auto;
+    float: none;
+}
+.login-left{
+    background-color: #444340;
+    padding-top: 10vh;
+    padding-left: 10vh;
+    padding-bottom: 5vh;
+
+}
+.login-right{
+    background: #fff;
+ padding-top: 5vh; ;
+    padding-left: 10vh;
+    padding-bottom: 5vh;
+
+}
+.form-control{
+    background-color: transparent !important;
+}
+.pendo{
+    color: red;
+}
+.ex{
+    color: #1d2124;
+    height: 10px;
+    width: 10px;
+}
+.line{
+    color: red;
+    width:6pt;
+}
+span{
+    width: 30px; /* Does not work. Apparent width is still 0. */
+}
+
+.women{
+
+font-weight: 300
+}
